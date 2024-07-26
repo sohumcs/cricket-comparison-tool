@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cricket-comparison-tool/static/css/main.718d2986.css",
+    "main.js": "/cricket-comparison-tool/static/js/main.40f0a771.js",
+    "index.html": "/cricket-comparison-tool/index.html",
+    "main.718d2986.css.map": "/cricket-comparison-tool/static/css/main.718d2986.css.map",
+    "main.40f0a771.js.map": "/cricket-comparison-tool/static/js/main.40f0a771.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.718d2986.css",
+    "static/js/main.40f0a771.js"
+  ]
+}
