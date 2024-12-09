@@ -111,7 +111,7 @@ function App() {
             </a>
         </div>
       <div className="title">
-        <h1>CRICKET STATS COMPARISON TOO</h1>
+        <h1>CRICKET STATS COMPARISON TOOL</h1>
       </div>
       <div className="SearchBoxes">
         <form onSubmit={handleSubmit} className="search-form">
